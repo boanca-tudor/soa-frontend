@@ -1,0 +1,9 @@
+[submodule "shell"]
+	path = shell
+	url = git@github.com:boanca-tudor/shell.git
+[submodule "auth_app"]
+	path = auth_app
+	url = git@github.com:boanca-tudor/auth_app.git
+[submodule "book_app"]
+	path = book_app
+	url = git@github.com:boanca-tudor/book_app.git
